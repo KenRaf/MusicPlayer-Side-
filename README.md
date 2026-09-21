@@ -11,7 +11,7 @@ NightWave is a private, browser-based music player built with React, TypeScript,
 
 From the project folder, run:
 
-```bash
+```powershell
 npm install
 npm run dev
 ```
